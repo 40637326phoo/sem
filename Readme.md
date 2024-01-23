@@ -1,1 +1,1 @@
-Phoo Thwin Cho.
+![workflow](https://github.com/40637326phoo/sem/actions/workflows/main.yml/badge.svg)
