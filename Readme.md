@@ -5,4 +5,4 @@
 [![Releases](https://img.shields.io/github/release/40637326phoo/sem/all.svg?style=flat-square)](https://github.com/40637326phoo/sem/releases)
 
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/40637326phoo/sem/<action name taken from main.yml>/<branch>?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/40637326phoo/sem/main.yml/develop?style=flat-square)
