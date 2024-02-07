@@ -1,6 +1,9 @@
 name: A workflow for my Hello World App
-on: push
-
+on:
+  push:
+    branches:
+      - master
+      - lab08
 jobs:
   UnitTests:
     name: Unit Tests
@@ -16,7 +19,7 @@ jobs:
           java-version: '17'
           distribution: 'adopt'
       - name: Unit Tests
-        run: mvn -test=com.napier.sem.AppTest.java test
+        run: mvn -Dtest=com.napier.sem.AppTest test
 
   build:
     name: Build and Start Using docker-compose
